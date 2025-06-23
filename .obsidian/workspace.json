@@ -27,18 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electricity and Magnetism.md",
+                "file": "Wave Phenomena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electricity and Magnetism"
+              "title": "Wave Phenomena"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "902b162a52153dea",
+        "id": "2b6813dffa82ae05",
         "type": "tabs",
         "children": [
           {
@@ -47,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wave Phenomena.md",
+                "file": "Waves and Thermodynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave Phenomena"
+              "title": "Waves and Thermodynamics"
             }
           }
         ]
@@ -202,9 +203,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21cee406e109e05",
+  "active": "f34a5ee22eddcec4",
   "lastOpenFiles": [
     "Wave Properties.md",
+    "Waves and Thermodynamics.md",
+    "Standing Waves.md",
+    "Wave Behaviour.md",
+    "Wave Phenomena.md",
+    "Electricity and Magnetism.md",
     "EMSpectrumProperties.png",
     "TransVsLong.webp",
     "PhaseDifferenceGraph.png",
@@ -213,12 +219,9 @@
     "PeriodGraph.png",
     "DisplacementGraph.png",
     "Screenshot 2025-06-23 at 22-35-23 Features of Waves (Part 1) Atomi.png",
-    "Wave Phenomena.md",
     "Dynamics.md",
-    "Waves and Thermodynamics.md",
     "Physics.md",
     "Year 12 Modules.md",
-    "Electricity and Magnetism.md",
     "Untitled 1.md",
     "Power.md",
     "Kirchoff's Laws.md",
@@ -229,11 +232,9 @@
     "Calculating Energy Transfers.md",
     "Energy Transfer.md",
     "Thermodynamics Basics.md",
-    "Standing Waves.md",
     "Thermodynamics.md",
     "Ray Model of Light.md",
     "Sound Waves.md",
-    "Wave Behaviour.md",
     "Applying Newton's Laws.md",
     "Newton's Laws.md",
     "Momentum, Energy and Simple Systems.md",
