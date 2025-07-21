@@ -11,11 +11,11 @@ The incident and the reflected wave then interfere with each other and the resul
 Every point of the wave does not move left or right, only up and down, therefor no energy is transferred by a standing wave.
 
 ### Features of Standing Waves
-There is no net transfer of energy from one point to another. Energy is "trapped" in the nodes of the wave (non-moving points). The points that constantly have 0 amplitude we called **Nodes** labled with a **N**, and then the points that alternate from maxium to minimum displacement are called **Anti-Nodes** labled **AN**
+There is no net transfer of energy from one point to another. Energy is "trapped" in the nodes of the wave (non-moving points). The points that constantly have 0 amplitude we called **Nodes** labeled with a **N**, and then the points that alternate from maxium to minimum displacement are called **Anti-Nodes** labled **AN**
 #### Nodes
 - Points constantly have 0 amplitude 
 - Points with 0 displacement 
-- There will always be a node at a fixed boundry
+- There will always be a node at a fixed boundary
 #### Anti-Nodes
 - Alternate from maximum positive displacement to minimum negative displacement
 - Points of maximum amplitude 
@@ -37,8 +37,7 @@ A forced oscillation is the oscillation of a system with the frequency of some e
 The frequency that you force a system to oscillate at eg. A swing
 
 ### What is Resonance 
-When you drive a system at a random frequency, the amplitude of the oscillation is relatively small.
-However, if the driving frequency is close to the natural frequency, there is an increase in the amplitude of oscillations
+When you drive a system at a random frequency, the amplitude of the oscillation is relatively small. However, if the driving frequency is close to the natural frequency, there is an increase in the amplitude of oscillations
 
 **Resonance** is when a system is driven at its natural frequency or driving frequency is equal to the natural frequency. Resonance is a large increase of the amplitude of the oscillations when a system is driven at its natural frequency. ![[Pasted image 20250625105445.png]]
 
@@ -54,4 +53,9 @@ Depending on which harmonic frequency the medium is vibrating at we get differen
 ![[Pasted image 20250625130801.png]]
 For every successive harmonic the Node and Anti node count increases by 1, there a $n+1$ nodes and $n$ anti-nodes
 
-##
+## Stationary Waves patterns in Tubes
+Longitudinal Standing waves are formed in a wind instrument or any other air column.![[Pasted image 20250721175951.png]]
+### Open-end Tubes
+![[Screenshot 2025-07-21 at 18-18-27 Stationary Wave Patterns in Tubes Atomi.png]]
+### Closed-End Tubes
+![[Screenshot 2025-07-21 at 20-05-51 Stationary Wave Patterns in Tubes Atomi.png]]
