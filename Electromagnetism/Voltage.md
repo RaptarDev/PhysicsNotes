@@ -1,0 +1,1 @@
+**Voltage** is the quantity of energy available based on how much [[charge]] is present. 

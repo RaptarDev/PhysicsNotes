@@ -36,4 +36,5 @@ For Interference to occur the two waves must be **Coherent**. The two waves are 
 When two waves add together to give a resultant wave with greater displacements at all points.
 ![[Pasted image 20250624233035.png]]
 #### Destructive Interference
-When two waves add together to give a resultant wave with smaller displacements than the original wave![[Pasted image 20250624233043.png]]
+When two waves add together to give a resultant wave with smaller displacements than the original wave
+![[Pasted image 20250624233043.png]]

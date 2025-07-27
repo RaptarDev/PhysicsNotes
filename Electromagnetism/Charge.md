@@ -1,0 +1,1 @@
+**Charge** is a fundamental dimension, or property of matter (similar to how matter has mass or volume). Charge has a positive and negative value, where opposite charge attract, while identical charges repel.

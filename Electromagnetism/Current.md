@@ -1,0 +1,1 @@
+**Current** is the flow rate of [[charge]]

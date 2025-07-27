@@ -1,7 +1,7 @@
 Subtopics
 	[[Electrostatics]]
 	[[Electric Circuits]]
-		[[Circuit Basics]]
+		[[Electromagnetism/Electric Circuits]]
 		[[Kirchoff's Laws]]
 		[[Power]]
 		
