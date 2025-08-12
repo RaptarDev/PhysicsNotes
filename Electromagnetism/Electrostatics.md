@@ -1,0 +1,1 @@
+**Electrostatics** is the study of stationary [electric charges](charge), or fields opposed to electric [[current]]
